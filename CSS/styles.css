@@ -1,0 +1,151 @@
+/* === === C O L O R T H E O R Y   &   T Y P O G R A P H Y === === */
+body{
+    background-color: rgb(64, 63, 75);
+}
+.contentbody, .content, .title{
+    margin: 0 20% 0 20%;
+    width: fit-content;
+    border: 1px solid #00000000;
+    padding: 5px;
+    background-color: darkgrey;
+    border-radius: 15px;
+    box-shadow: 1px 1px 5px black;
+}
+.title, .content{
+    margin: 10px auto 10px auto;
+    padding: 0 20px 0 20px;
+    text-align: center;
+    background-color: antiquewhite;
+    text-shadow: 2px 2px #000000;
+}
+.title{
+    text-shadow: none;
+}
+p, h1, h2, h3{
+    font-family:'Arial';
+    color: black;
+}
+
+/* === === Q U O T E S === === */
+
+.QUOTE1{
+    font-family: 'Courier New', monospace;
+    color: white;
+}
+.QUOTE2{
+    font-family: 'Consolas';
+    color: rgb(255, 255, 255);
+}
+.QUOTE3{
+    font-family: 'Garamond';
+    text-shadow: none;
+}
+.QUOTE4{
+    font-family: 'Trebuchet MS';
+    color: rgb(255, 194, 11);
+}
+.QUOTE5{
+    font-family: 'Georgia';
+    color: rgb(255, 255, 255);
+}
+/* === === === === === === === === === === === === ===*/
+.QUOTE6{
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+}
+.QUOTE7{
+    font-family: 'Helvetica';
+    color: rgb(0, 7, 132);
+    text-shadow: none;
+}
+.QUOTE8{
+    font-family: 'Arial';
+    color: rgb(73, 65, 26);
+    text-shadow: 2px 2px #ffffff;
+}
+.QUOTE9{
+    font-family: 'Tahoma';
+    color: rgb(76, 0, 93);
+    text-shadow: 2px 2px #3c003130;
+}
+.QUOTE10{
+    font-family: 'Verdana';
+    text-shadow: 2px 2px #85dcff;
+}
+/* === === === === === === === === === === === === ===*/
+.QUOTE11{
+    font-family: 'Courier New';
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px #ffbb0057;
+}
+.QUOTE12{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 216, 75);
+    -webkit-text-stroke: 0.5px #523d00;
+    text-shadow: 1px 1px #00000057;
+}
+.QUOTE13{
+    font-family: 'Brush Script MT', cursive;
+    text-shadow: none;
+}
+.QUOTE14{
+    font-family: 'Helvetica';
+    color: rgb(255, 255, 0);
+    text-shadow: 2px 2px #00285c;
+}
+.QUOTE15{
+    font-family: 'Arial', Times, serif;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px #ffbb0057;
+}
+
+/* === === === B O X E S === === === */
+/* === === === B O X E S === === === */
+
+.BOX1{
+    background-image: url("IMAGES/TECH.png");
+}
+.BOX2{
+    background-image: url("IMAGES/ROAD.png");
+}
+.BOX3{
+    background-image: url("IMAGES/SUN.png");
+}
+.BOX4{
+    background-image: url("IMAGES/SUNSET.png");
+}
+.BOX5{
+    background-image: url("IMAGES/NIGHT.png");
+}
+/* === === === === === === === === === === === === ===*/
+.BOX6{
+    background-image: url("IMAGES/AUTUMN.png");
+}
+.BOX7{
+    background-image: url("IMAGES/SNOW.png");
+}
+.BOX8{
+    background-image: url("IMAGES/SUMMER.png");
+}
+.BOX9{
+    background-image: url("IMAGES/SPRING.png");
+}
+.BOX10{
+    background-image: url("IMAGES/RAIN.png");
+}
+/* === === === === === === === === === === === === ===*/
+.BOX11{
+    background-image: url("IMAGES/CARBON.png");
+}
+.BOX12{
+    background-image: url("IMAGES/TIME.png");
+}
+.BOX13{
+    background-image: url("IMAGES/PAST.png");
+}
+.BOX14{
+    background-image: url("IMAGES/WATER.png");
+}
+.BOX15{
+    background-image: url("IMAGES/FALL.png");
+}
